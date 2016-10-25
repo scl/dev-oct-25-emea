@@ -1,8 +1,9 @@
-
 # Ichenhausen, Bavaria, Germany
 
-## Things to do 
+## Things to do
+- Visit Legoland
+- Go hicking
+- Go :ski: in winter
 
 ## Places to eat
-
-## Things to eat
+- Zur Eisenbahn
