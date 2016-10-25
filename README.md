@@ -1,5 +1,7 @@
 # Welcome to GitHub for Developers!
 
+[![Join the chat at https://gitter.im/githubteacher/dev-oct-25-emea](https://badges.gitter.im/githubteacher/dev-oct-25-emea.svg)](https://gitter.im/githubteacher/dev-oct-25-emea?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Facilitators
 - On the Mic:
   - Stefan, :octocat: [@stoe](http://github.com/stoe)
