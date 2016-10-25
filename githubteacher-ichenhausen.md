@@ -7,3 +7,4 @@
 
 ## Places to eat
 - Zur Eisenbahn
+- La Fontana :ice_cream:
